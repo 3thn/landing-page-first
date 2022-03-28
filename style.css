@@ -1,0 +1,59 @@
+.part-one {
+    display: flex;
+    justify-content: space-between;
+    background-color: darkgray;
+    margin-bottom: 0%;
+    align-items: center;
+    width: auto;
+    
+}
+
+ul {
+list-style-type: none;
+display: flex;
+gap: 40px;
+font-family:  #e5e7eb;
+font-size: 18px;
+margin-right: 100px;
+}
+
+#logo {
+margin-left: 100px;
+font-family: #e5e7eb;
+font-weight: bold;
+font-size: xx-large;
+}
+
+.part-two {
+    display: flex;
+    padding-top: 25px;
+    height: 300px;
+    justify-content: space-between;
+    background-color: darkgray;
+    
+}
+
+.head-para-button {
+display: block;
+margin-left: 100px;
+width: 600px;
+}
+
+.img-two {
+align-self: center;
+ margin-right: 100px;
+ height: 200px;
+ display: flex;
+justify-content:centers;
+max-width: 100%;
+max-height: 100%;
+margin-bottom: 25px;
+}
+
+.button-one button {
+display: block;
+font-weight: bold;
+color: blue;
+border-radius: 6px;
+padding: 10px;
+}
