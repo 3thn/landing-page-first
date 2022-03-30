@@ -57,3 +57,64 @@ color: blue;
 border-radius: 6px;
 padding: 10px;
 }
+
+.part-three {
+    display: flex;
+    background-color: darkblue;
+    flex-direction: column;
+    text-align: center;
+    height: 400px;
+}
+
+.header-pt-two {
+    display: flex;
+    background-color: darkblue;
+    flex-direction: column;
+    text-align: center;
+    
+}
+    
+
+
+.images-caption {
+   display: flex;
+   justify-content: space-between;
+   margin-left: 100px;
+   margin-right: 100px;
+   margin-top: 25px;
+}
+.part-three img {
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+}
+
+.quote-author {
+    background-color: green;
+    height: 400px;
+    display: flex;
+}
+
+.quote {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 100px;
+    margin-bottom: 150px;
+    font-size: x-large;
+    font-style: italic;
+    
+}
+
+.author {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+    
+    
+   
+
