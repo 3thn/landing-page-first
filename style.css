@@ -1,11 +1,11 @@
 .part-one {
     display: flex;
     justify-content: space-between;
-    background-color: darkgray;
+    background-color: #1f2937;
     margin-bottom: 0%;
     align-items: center;
     width: auto;
-    
+    color: #f9faf8;
 }
 
 ul {
@@ -21,7 +21,7 @@ margin-right: 100px;
 margin-left: 100px;
 font-family: #e5e7eb;
 font-weight: bold;
-font-size: xx-large;
+font-size: 24px;
 }
 
 .part-two {
@@ -29,7 +29,7 @@ font-size: xx-large;
     padding-top: 25px;
     height: 300px;
     justify-content: space-between;
-    background-color: darkgray;
+    background-color: #1f2937;
     
 }
 
@@ -37,6 +37,7 @@ font-size: xx-large;
 display: block;
 margin-left: 100px;
 width: 600px;
+color: white;
 }
 
 .img-two {
@@ -48,19 +49,21 @@ justify-content:centers;
 max-width: 100%;
 max-height: 100%;
 margin-bottom: 25px;
+
 }
 
 .button-one button {
 display: block;
 font-weight: bold;
-color: blue;
+background-color: #3882f6;
 border-radius: 6px;
 padding: 10px;
+color: white;
 }
 
 .part-three {
     display: flex;
-    background-color: darkblue;
+    background-color: white;
     flex-direction: column;
     text-align: center;
     height: 400px;
@@ -68,7 +71,7 @@ padding: 10px;
 
 .header-pt-two {
     display: flex;
-    background-color: darkblue;
+    background-color: white;
     flex-direction: column;
     text-align: center;
     
@@ -87,12 +90,14 @@ padding: 10px;
     height: 200px;
     width: 200px;
     border-radius: 25px;
+    border: #3882f6 2px solid;
 }
 
 .quote-author {
-    background-color: green;
+    background-color: lightgray;
     height: 400px;
     display: flex;
+    color: black;
 }
 
 .quote {
@@ -123,12 +128,13 @@ padding: 10px;
 
 .mini-box {
 margin: 50px;
-background-color: blue;
+background-color: #3882f6;
 display: flex;
 justify-content: center;
 width: 800px;
 align-items: center;
 border-radius: 50px;
+color: white;
 
 }
 
@@ -140,14 +146,15 @@ height: 30px;
 border-color: white;
 border-width: 4px;
 border-radius: 25px;
-background-color: blue;
+background-color: #3882f6;
 color: white;
 }
     
 footer {
-    background-color: green;
+    background-color: #1f2937;
     display: flex;
     justify-content: center;
+    color: white;
 }
    
 
