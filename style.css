@@ -114,7 +114,40 @@ padding: 10px;
     font-weight: bolder;
 }
 
+.final-section {
+    height: 250px;
+    justify-content: center;
+    display: flex;
+    color: white;
+}
+
+.mini-box {
+margin: 50px;
+background-color: blue;
+display: flex;
+justify-content: center;
+width: 800px;
+align-items: center;
+border-radius: 50px;
+
+}
+
+.mini-box button {
+align-content: center;
+margin-left: 200px;
+width: 100px;
+height: 30px;
+border-color: white;
+border-width: 4px;
+border-radius: 25px;
+background-color: blue;
+color: white;
+}
     
-    
+footer {
+    background-color: green;
+    display: flex;
+    justify-content: center;
+}
    
 
